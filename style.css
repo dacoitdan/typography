@@ -55,18 +55,18 @@ h2 {
 	margin-bottom: 0;
 }
 
-h2 + p,
-h3 + p {
-	margin-top: 0;
-	padding-top: 10px;
-}
-
 h3 {
 	font-size:1.5em;
 	font-family: Helvetica;
 	font-variant: small-caps;
 	text-transform: lowercase;
 	margin-bottom: 0;
+}
+
+h2 + p,
+h3 + p {
+	margin-top: 0;
+	padding-top: 10px;
 }
 
 .main-content > p:first-of-type {
